@@ -2,7 +2,7 @@
 
 > Una aplicación web sencilla que muestra frases inspiradoras de forma aleatoria al interactuar con la interfaz.
 
-[🔗 Ver Demo en Vivo](https://TU_USUARIO.github.io/NOMBRE_DEL_REPO/)
+[🔗 Ver Demo en Vivo]([https://TU_USUARIO.github.io/NOMBRE_DEL_REPO/](https://tecnicodanielfloresdiaz-lang.github.io/Citas_Aleatorias/))
 
 ---
 
